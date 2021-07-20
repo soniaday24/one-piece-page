@@ -1,0 +1,15 @@
+body {
+  background-color: #b2effc;
+ font-family: Lucida Sans Regular; /* Add application styles & imports to this file! */
+ font-size: 15px;
+ margin-left:2cm;margin-right:5cm;margin-bottom:3cm;
+}
+h1 {
+ color: rgb(228, 27, 27);
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 70px;
+}
+main {
+ color: rgb(5, 5, 5);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
